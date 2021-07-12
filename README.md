@@ -1,2 +1,17 @@
-# hellonode-keycloak
-This react-nodejs application can work in collaboration with keycloak to setup authentication
+# Node-sample-app
+
+### install 
+
+`npm install`
+
+### build client
+
+`npm run-script build`
+
+### run
+
+`node server.js`
+
+### check
+
+`http://localhost:8080/`
